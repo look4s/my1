@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>11.jpg</filename>
-	<path>C:\Users\Damon\object_detection_demo\data\images\train\11.jpg</path>
+	<filename>10.jpg</filename>
+	<path>C:\Users\Damon\object_detection_demo\data\images\train\10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>500</width>
-		<height>333</height>
+		<width>591</width>
+		<height>591</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>56</ymin>
-			<xmax>495</xmax>
-			<ymax>314</ymax>
+			<xmin>27</xmin>
+			<ymin>51</ymin>
+			<xmax>575</xmax>
+			<ymax>469</ymax>
 		</bndbox>
 	</object>
 </annotation>
