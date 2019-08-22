@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>u=3573939316,1226703638&amp;fm=26&amp;gp=0.jpg</filename>
+	<path>E:\shibie-object\picture\train\u=3573939316,1226703638&amp;fm=26&amp;gp=0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bocai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>110</ymin>
+			<xmax>367</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>
